@@ -48,7 +48,7 @@ const Manufacturer = () => {
         </div>
         <div className="mb-4">
           <label className="block text-yellow-500 text-sm font-bold mb-2" htmlFor="productName">
-            Product Name
+            Food Name
           </label>
           <input
             className="shadow appearance-none border rounded w-full py-2 px-3 text-yellow-500 leading-tight focus:outline-none focus:shadow-outline"
@@ -96,7 +96,7 @@ const Manufacturer = () => {
             className="bg-yellow-500 hover:bg-yellow-600 text-white font-semibold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
             type="submit"
           >
-            Add Product
+            Add Food
           </button>
         </div>
       </form>
