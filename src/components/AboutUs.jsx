@@ -6,16 +6,20 @@ const AboutUs = () => {
       <div className="container mx-auto">
         <div className="max-w-3xl mx-auto">
           <p className="text-gray-100 mb-4">
-            At Counterfeit Medicine, we are dedicated to raising awareness about the dangers of counterfeit medicines and protecting public health. Counterfeit medicines are fake or fraudulent drugs that imitate genuine pharmaceutical products but may contain harmful ingredients or incorrect dosages. These counterfeit drugs pose serious risks to individuals, communities, and healthcare systems worldwide.
+          Minimalist Baker is one of those sites where the name says it all. It shares plant-based recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. It publishes a new recipe every three days, with a mixture of savory and sweet dishes.
+
+
+
+
           </p>
           <p className="text-gray-100 mb-4">
-            Our mission is to educate the public, healthcare professionals, and policymakers about the prevalence of counterfeit medicines and the potential consequences they can have on patient safety. Through our research, advocacy efforts, and collaborations with stakeholders, we strive to combat the production, distribution, and sale of counterfeit drugs.
+          Dana Shultz is the recipe developer and blogger. She has a deep love for recipe experimentation and food photography. She has even expanded into creating a Essentials of Building a Great Food Blog Course.
           </p>
           <p className="text-gray-100 mb-4">
-            We work closely with regulatory authorities, pharmaceutical companies, healthcare organizations, and law enforcement agencies to enhance counterfeit detection technologies, strengthen supply chain security, and implement stricter regulations. By promoting awareness and supporting initiatives to fight against counterfeit medicines, we aim to safeguard public health and ensure that individuals have access to safe and effective medications.
+          Despite the use of the word “baker” in the site’s name, it covers many different types of (predominantly vegan) cooking – sweets, entrees, breakfast, snacks, sides, and beverages.
           </p>
           <p className="text-gray-100 mb-6">
-            If you have any questions, concerns, or would like to get involved in our efforts, please feel free to contact us. Together, we can make a difference in the battle against counterfeit medicines.
+          The recipes are the heart of this site. There is a particular emphasis on stepped-up comfort foods. The site also includes numerous tutorials on topics as diverse as how to poach an egg and how to make tart doughs that don’t shrink up on you.
           </p>
           <a
             href="/contact"
